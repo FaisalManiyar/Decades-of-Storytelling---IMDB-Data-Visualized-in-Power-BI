@@ -13,7 +13,7 @@ To Visualize decades of IMDB data in Power BI to reveal audience trends and cont
 
 - Dashboard Interaction -> <a href="https://github.com/FaisalManiyar/Decades-of-Storytelling-IMDB-Data-Visualized-in-Power-BI/commit/c1b34c7f200e58142a77236617641a33f2759fd4">View Dashboard<a/>
 
-Process workflow
+## Process workflow
 1. Data ingestion
 2. Data cleaning
 3. Modeling:
